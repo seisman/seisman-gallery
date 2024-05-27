@@ -1,9 +1,9 @@
 name: seisman-gallery
 channels:
-    - conda-forge
-    - nodefaults
+  - conda-forge
+  - nodefaults
 dependencies:
-    - python=3.12
-    - gmt=6.5.0
-    - pygmt=0.12.0
-    - numpy
+  - python=3.12
+  - gmt=6.5.0
+  - pygmt=0.12.0
+  - numpy
