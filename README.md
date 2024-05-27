@@ -1,11 +1,8 @@
-# Scientific Plot Gallery
+# Dongdong Tian's Science Graphics Collection
 
-This repository is a collections of several scientific plots that I make for
-my scientific research.
+Click the figure caption to check out the scripts and data that are used to generate the
+figure.
 
-## 3D Earth
-
-[Notebook](./3DEarth/3DEarth.ipynb)
-
-![](./3DEarth/3DEarth.jpg)
-
+| [3D Earth](./3DEarth/)| |
+|---|---|
+| ![](./3DEarth/3DEarth.jpg) | |
