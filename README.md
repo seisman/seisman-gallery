@@ -5,9 +5,9 @@
 Click the figure caption to check out the scripts and data that are used to generate the
 figure.
 
-| [3D Earth](./3DEarth/)| |
+| [3D Earth](./3DEarth/)| [SS raypath](./SS_raypath)|
 |---|---|
-| ![](./3DEarth/3DEarth.jpg) | |
+| ![](./3DEarth/3DEarth.jpg) | ![](./SS_raypath/SS_raypath.png) |
 
 ## Dependencies
 
