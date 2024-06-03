@@ -1,9 +1,10 @@
 # Dongdong Tian's Science Graphics Collection
 
+![GitHub License](https://img.shields.io/github/license/seisman/seisman-gallery)
+
 ## Gallery
 
-Click the figure caption to check out the scripts and data that are used to generate the
-figure.
+Click on the caption of the figure to find out about the scripts and data that were used to generate the figure.
 
 | [3D Earth](./3DEarth/)| [SS raypath](./SS_raypath)|
 |---|---|
@@ -11,8 +12,12 @@ figure.
 
 ## Dependencies
 
-Most of the figures are created by GMT, PyGMT and Matplotlib. See the `environment.yml`
-file for the full list of dependencies.
+The figures are mostly created by:
+
+- [GMT](https://www.generic-mapping-tools.org/): Generic Mapping Tools
+- [PyGMT](https://www.pygmt.org/): The Python interface for the Generic Mapping Tools
+
+See the `environment.yml` file for the full list of dependencies.
 
 ## References
 
