@@ -15,10 +15,9 @@ gmt begin SS_raypath png
 	gmt basemap -Byg6371+2891 -B+n --MAP_GRID_PEN_PRIMARY=0.5p
 	gmt basemap -Byg6371+5150 -B+n --MAP_GRID_PEN_PRIMARY=0.5p
 
-	# Calculate raypath via TauP and plot
-	taup_path -mod iasp91 -ph SS,S^410S -h 30 -deg 130 -o SS_raypath
+	# Calculate raypath using TauP's taup_path command
+	# taup_path -mod iasp91 -ph SS,S^410S -h 30 -deg 130 -o SS_raypath
 	gmt plot SS_raypath.gmt -i0,1+s-1+o6371 -W0.5p,black
-	rm SS_raypath.gmt
 	echo 0   0 | gmt plot -Sa0.3c -Gred -N
 	echo 130 0 | gmt plot -Si0.3c -Gblack -N
 
