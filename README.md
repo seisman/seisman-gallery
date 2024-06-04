@@ -22,7 +22,7 @@ See the `environment.yml` file for the full list of dependencies.
 ## References
 
 1.  Wessel, P., Luis, J. F., Uieda, L., Scharroo, R., Wobbe, F., Smith, W. H. F. & Tian, D. (2019),
-    The generic mapping tools version 6.
+    The Generic Mapping Tools version 6.
     *Geochemistry, Geophysics, Geosystems*,
     20(11), 5556-5564, https://doi.org/10.1029/2019GC008515.
 2.  Tian, D., Uieda, L., Leong, W. J., Fröhlich, Y., Schlitzer, W., Grund, M., Jones, M.,
