@@ -1,10 +1,11 @@
-# Dongdong Tian's Science Graphics Collection
+# Dongdong Tian's Scientific Graphics Collection
 
 ![GitHub License](https://img.shields.io/github/license/seisman/seisman-gallery)
 
 ## Gallery
 
-Click on the caption of the figure to find out about the scripts and data that were used to generate the figure.
+Click on the caption of the figure to find out about the scripts and data that were used
+to generate the figure.
 
 | [3D Earth](./3DEarth/)| [SS raypath](./SS_raypath)|
 |---|---|
@@ -28,8 +29,8 @@ See the `environment.yml` file for the full list of dependencies.
 2.  Tian, D., Uieda, L., Leong, W. J., Fröhlich, Y., Schlitzer, W., Grund, M., Jones, M.,
     Toney, L., Yao, J., Magen, Y., Jing-Hui, T., Materna, K., Belem, A., Newton, T.,
     Anant, A., Ziebarth, M., Quinn, J., & Wessel, P. (2024).
-    PyGMT: A Python interface for the Generic Mapping Tools (v0.12.0).
-    Zenodo. https://doi.org/10.5281/zenodo.11062720
+    PyGMT: A Python interface for the Generic Mapping Tools (v0.13.0). Zenodo.
+    https://doi.org/10.5281/zenodo.13679420
 
 ## License
 
